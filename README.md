@@ -2,6 +2,11 @@
 
 ---
 
+## 📄 Raw Data
+<img width="1256" height="79" alt="Screenshot 2026-02-15 163543" src="https://github.com/user-attachments/assets/24ca074a-91ed-4df9-a6fc-28ba1b7a97d3" />
+
+---
+
 ## 📌 Project Overview
 This project focuses on analyzing Zepto’s operational and sales data to extract meaningful business insights. By converting raw, unstructured Excel data into a relational SQL database, I performed end-to-end data engineering to solve critical business problems in the **Quick Commerce** sector. 
 
